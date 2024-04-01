@@ -14,13 +14,11 @@ I am a versatilist and easily adapt to different hats (flont-end Web Developer �
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Liammcl?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp;Contact me eamil: zihengliam@gmail.com
-- 📝 &nbsp; Checkout my chinese [resume](https://drive.google.com/file/d/1YEmqAZPTG9yVb4z72V3FoZ7B8N0HHhLi/view?usp=sharing)
+- 📝 &nbsp; Checkout my chinese[resume](https://drive.google.com/file/d/1YEmqAZPTG9yVb4z72V3FoZ7B8N0HHhLi/view?usp=sharing)
+
 
 
 <br>
-
-
-
 
 
 ### 🔨 Languages and Tools:
@@ -41,4 +39,22 @@ I am a versatilist and easily adapt to different hats (flont-end Web Developer �
 <br>
 
 
+Proficient in Vue.js, React, and JavaScript, with a deep understanding of modern frontend development practices.
+- 🔭 &nbsp; Possess over 5 years of extensive experience in frontend development, collaborating on a variety of projects ranging from small-scale applications to large-scale enterprise solutions.
+-  🤝 &nbsp;Demonstrated ability to rapidly translate product designs into fully functional and visually appealing user interfaces, ensuring timely project delivery and alignment with business objectives.
+- 📫 &nbsp;Committed to upholding the highest standards of quality and professionalism in all aspects of product development, consistently delivering robust and reliable solutions that meet or exceed client expectations.
 
+<br>
+
+
+## 🔭 Why Remote Work?
+
+I am enthusiastic about remote work because it allows me to collaborate with diverse teams from around the world, maintain a healthy work-life balance, and leverage the flexibility to work in environments where I can be most productive and creative.
+
+##  💬 Let's Connect!
+
+If you are interested in working together or have any questions, feel free to reach out to me via:
+
+- Email: zihengliam@gmail.com
+
+I am excited about the opportunity to collaborate with innovative companies and contribute to impactful projects. Let's build something amazing together!
