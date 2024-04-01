@@ -14,7 +14,7 @@ I am a versatilist and easily adapt to different hats (flont-end Web Developer �
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Liammcl?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp;Contact me eamil: zihengliam@gmail.com
-- 📝 &nbsp; Checkout my chinese[resume](https://drive.google.com/file/d/1YEmqAZPTG9yVb4z72V3FoZ7B8N0HHhLi/view?usp=sharing)
+- 📝 &nbsp; Checkout my chinese [resume](https://drive.google.com/file/d/1YEmqAZPTG9yVb4z72V3FoZ7B8N0HHhLi/view?usp=sharing)
 
 
 <br>
